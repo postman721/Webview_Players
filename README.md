@@ -13,6 +13,8 @@ sudo apt-get install qttools5-dev qtdeclarative5-dev libqt5multimedia5-plugins l
 ![APlayer](https://github.com/user-attachments/assets/ac84f7cb-ab76-457c-a7b8-6698c318e6b9)
 - Yle Areena == APlay
 
+
+
 ![Yplayer](https://github.com/user-attachments/assets/27c594ac-1d50-4682-8afb-c89266373186)
 - Youtube  == YPlay
 
