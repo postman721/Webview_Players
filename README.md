@@ -1,4 +1,4 @@
-# Player applications
+# Webview players for Linux desktop
 
 C++, QT5 and Webview applications for Linux desktop 
 
